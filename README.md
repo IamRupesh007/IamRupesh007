@@ -56,7 +56,7 @@
 </details>
 
 <!--
-**TEJAS12Oct/TEJAS12Oct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IamRupesh007/IamRupesh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
