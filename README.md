@@ -25,15 +25,15 @@
 
 <hr>
   
-![Profile views](https://gpvc.arturio.dev/Ruchita1997)
+![Profile views](https://gpvc.arturio.dev/IamRupesh007)
 
 <br />
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ruchita1997&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchita1997&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=IamRupesh007&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRupesh007&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
 
 <hr>
@@ -43,8 +43,8 @@
 <details>
   <summary>🔥 GitHub Streak</summary>
   <br/>
-   <a href="https://github.com/Ruchita1997/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ruchita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchita1997&theme=jolly&hide_border=true"/>
+   <a href="https://github.com/IamRupesh007/github-readme-streak-stats">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rupesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IamRupesh007&theme=jolly&hide_border=true"/>
   </a>
   <br/>
 </details>
@@ -52,7 +52,7 @@
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a href="https://github.com/Ruchita1997/github-readme-activity-graph"><img alt="Ruchita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ruchita1997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/IamRupesh007/github-readme-activity-graph"><img alt="Rupesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IamRupesh007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <!--
